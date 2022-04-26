@@ -1,2 +1,1 @@
-# tc-projeto_github
-Este é meu segundo repositório
+This is my second repository
